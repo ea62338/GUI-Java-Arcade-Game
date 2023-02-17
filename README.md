@@ -9,9 +9,4 @@
 >I learned a lot about game mechanics and how things work with each other.
 
 ## Demo
-
-
-
-
-
-
+![gamegif](https://user-images.githubusercontent.com/50187038/219809784-d825f685-1564-4f3a-96b7-31b5e4b3730d.gif)
