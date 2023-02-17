@@ -5,11 +5,3 @@
 >The goal is to avoid the moving barrels on each floor by jumping and getting to the ladders to climb up adn reach pauline at the top
 > If they hit a barrel they die and are prompted with a play again message. but if they reach the top they win and are able to play again.
 >I learned a lot about game mechanics and how things work with each other.
-
-## Demo
-
-
-
-
-
-
